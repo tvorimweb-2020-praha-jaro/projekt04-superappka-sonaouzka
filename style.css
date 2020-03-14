@@ -98,3 +98,10 @@ h1 {
 .super {
     position: relative;
 }
+
+.Tri {
+    padding: 30px 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
