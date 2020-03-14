@@ -47,3 +47,54 @@ a:hover {
 	background-color: white;
     color: #25133d;
 }
+
+.Super {
+    padding: 0px 30px;
+    position: relative;
+    height: 400px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.foto {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.Stahnout a {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    border-radius: 7%;
+    background-color: #48418e;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Vice a {
+    position: absolute;
+    left: 220px;
+    bottom: 50px;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    border-radius: 7%;
+    background-color: #48418e;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+
+.super {
+    position: relative;
+}
