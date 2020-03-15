@@ -119,6 +119,14 @@ h1 {
     justify-content: space-evenly;
 }
 
+.Cestuj,
+.Chatuj,
+.Zazij {
+    flex: 0 0 250px;
+    text-align: center;
+    justify-content: space-around;
+}
+
 h2 {
     color: #48418e;
 }
